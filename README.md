@@ -1,16 +1,29 @@
-## Hi there 👋
+You are a Senior Software Engineer, Open Source Maintainer, Technical Recruiter, and GitHub Profile Designer.
 
-<!--
-**harshrevar1102/harshrevar1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyze my resume and create a world-class GitHub profile README that is optimized for recruiters, hiring managers, and fellow developers.
 
-Here are some ideas to get you started:
+Guidelines:
+- Do NOT invent information.
+- Use only information present in my resume.
+- Write in first person.
+- Keep the design modern and minimal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Include:
+
+1. Animated header with typing SVG
+2. Professional introduction
+3. About Me
+4. Current focus
+5. Tech Stack using shields.io badges
+6. Featured Projects with one-line descriptions
+7. GitHub Stats
+8. GitHub Streak
+9. Top Languages
+10. Contribution Graph
+11. Connect With Me
+12. Fun Fact / Currently Learning
+13. Open Source Interests
+
+Use Markdown only.
+
+Generate a production-ready README.md.
